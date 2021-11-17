@@ -1,4 +1,5 @@
 /venv 3.8.10-64b/*
 /model*
 .idea*
-.gitignore
+*.gitignore*
+*__pycache__*
